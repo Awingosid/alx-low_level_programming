@@ -22,7 +22,6 @@ void times_table(void)
 	_putchar(d + '0');
 	_putchar(u + '0');
 	}
-	
 	else
 	{
 	if (y != 0)
